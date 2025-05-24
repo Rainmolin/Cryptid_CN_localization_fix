@@ -1,0 +1,1 @@
+Balatro mod Cryptid's zh_cn localization,work in progress.
